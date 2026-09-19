@@ -1,4 +1,4 @@
-<h1 align="center">Rawsha Facebook Checker v1.0 by Rawshana 😎</h1>
+<h1 align="center">Rawsha Facebook Checker v1.0 by Mohamed Reda ELNaggar 😎</h1>
 <p align="center">Facebook Mass Account Checker Tool for termux USERS<br>Without Locked Account</p>
 
 ## About Rawsha Facebook Checker :
@@ -59,7 +59,7 @@ cd # && rm -rf RawshaFacebookChecker
 * Facebook : [Follow Me](https://www.facebook.com/100001457889257)
 * Instagram : [Follow Me](https://www.instagram.com/mohamedredaelnaggar)
 * Twitter : [Follow Me](https://twitter.com/MRawshana/)
-* GitHub : [Follow Me](https://www.github.com/Rawshana)
+* GitHub : [Follow Me](https://github.com/mohamed-reda-elnaggar-official)
 
 ### Warning ⚠️
 
